@@ -36,7 +36,7 @@ Windows：服务信息、操作系统信息、磁盘信息、CPU信息、内存�
 
 
 
-#smartx_collect.py
+## smartx_collect.py
 
 采集SmartX平台数据，需确认SmartX平台版本是否适用工具中的API接口。
 
